@@ -1,0 +1,16 @@
+[
+{
+  "modid": "diedye",
+  "name": "Die Dye",
+  "description": "Adds flowers that you crumple up to make Die Dye, which you throw at Zombies for an insta-kill. Why? Because my sister!",
+  "version": "1.3",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IrresoluteArkia"],
+  "credits": "Me",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
